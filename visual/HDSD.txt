@@ -1,0 +1,2 @@
+WeatherServer: npm start
+WeatherDashboard: npm run dev
